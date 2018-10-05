@@ -79,7 +79,7 @@ Access to the API is limited by your plan's maximum daily query limit. It is str
 
 <table>
   <tr>
-  <td>[/v4.0/overview](v4-0/overview.md)</td>
+  <td><a href='v4-0/overview.md'>/v4.0/overview</a></td>
   <td>Current</td>
   </tr>
   <tr>
