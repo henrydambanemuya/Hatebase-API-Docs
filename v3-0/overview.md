@@ -179,7 +179,8 @@ For illustrative purposes, output has been displayed below as XML.
     {data structure is dependent on requested query type}
 
   [/data]
-[/hatebase]```
+[/hatebase]
+```
 
 Vocabulary data is presented with this structure:
 
