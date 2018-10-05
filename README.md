@@ -77,10 +77,10 @@ Access to the API is limited by your plan's maximum daily query limit. It is str
 
 # Versions
 
-- [/v4.0/overview](v4-0/overview.md) **Current**
-- [/v3.0/overview](v3-0/overview.md) Deprecated
-- [/v2.0/overview](v2-0/overview.md) Deprecated
-- /v1.0/overview Retired
+- [v4.0](current/v4-0/overview.md) **Current**
+- [v3.0](archived/v3-0/overview.md) Deprecated
+- [v2.0](archived/v2-0/overview.md) Deprecated
+- v1.0 Retired
 
 # Error Messages
 
