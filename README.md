@@ -77,24 +77,10 @@ Access to the API is limited by your plan's maximum daily query limit. It is str
 
 # Versions
 
-<table>
-  <tr>
-  <td><a href='v4-0/overview.md'>/v4.0/overview</a></td>
-  <td>Current</td>
-  </tr>
-  <tr>
-  <td>[/v3.0/overview](v3-0/overview.md)</td>
-  <td>Deprecated</td>
-  </tr>
-  <tr>
-  <td>[/v2.0/overview](v2-0/overview.md)</td>
-  <td>Deprecated</td>
-  </tr>
-  <tr>
-  <td>/v1.0/overview</td>
-  <td>Retired</td>
-  </tr>
-</table>
+- [/v4.0/overview](v4-0/overview.md) **Current**
+- [/v3.0/overview](v3-0/overview.md) Deprecated
+- [/v2.0/overview](v2-0/overview.md) Deprecated
+- /v1.0/overview Retired
 
 # Error Messages
 
