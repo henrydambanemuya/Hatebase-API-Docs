@@ -1,5 +1,14 @@
 <center><a href='https://hatebase.org'><img src="logo.png" width="200" ></a></center>
 
+Please review this README for a general understanding of the API before proceeding into the version-specific documentation. Although this README is intended to be a high-level overview of the API's usage and terms, any specific comments on implementation will always reference the latest version.
+
+# Versions
+
+- [v4.0](current/v4-0/overview.md) **Imminent**
+- [v3.0](archived/v3-0/overview.md) Deprecated
+- [v2.0](archived/v2-0/overview.md) Deprecated
+- v1.0 Retired
+
 # How It Works
 
 The Hatebase API accepts queries using a two-phase approach: the authentication handshake and then the actual query itself. In either scenario, the system is queried with a version number, an endpoint (which defines the type of information requested) and a payload containing input parameters (sent by POST), and then returns a resultset.
@@ -74,13 +83,6 @@ Again, this simple result set is solely illustrative; there is no need for empty
 # Daily Rate Limiting
 
 Access to the API is limited by your plan's maximum daily query limit. It is strongly recommended that systems which connect with the API do not do so in user real-time. A safer architecture is to download data asynchronously and store locally for better real-time performance and no redundant data retrieval.
-
-# Versions
-
-- [v4.0](current/v4-0/overview.md) **Current**
-- [v3.0](archived/v3-0/overview.md) Deprecated
-- [v2.0](archived/v2-0/overview.md) Deprecated
-- v1.0 Retired
 
 # Error Messages
 
