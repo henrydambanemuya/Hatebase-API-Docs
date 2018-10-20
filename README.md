@@ -1,4 +1,4 @@
-<center><a href='https://hatebase.org'><img src="logo.png" width="200" ></a></center>
+<center><a href='https://hatebase.org'><img src="logo.png" width="300" ></a></center><br />
 
 Please review this README for a general understanding of the API before proceeding into the version-specific documentation. Although this README is intended to be a high-level overview of the API's usage and terms, any specific comments on implementation will always reference the latest version.
 
