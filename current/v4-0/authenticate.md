@@ -44,11 +44,11 @@ The /authenticate endpoint is required to initiate an API session, and outputs a
   <tr>
     <td>requested_on</td>
     <td>2018-01-01 12:00:00</td>
-    <td>Eastern time</td>
+    <td>GMT</td>
   </tr>
   <tr>
     <td>expires_on</td>
     <td>2018-01-01 13:00:00</td>
-    <td>Eastern time</td>
+    <td>GMT</td>
   </tr>
 </table>

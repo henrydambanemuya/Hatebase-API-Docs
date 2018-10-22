@@ -72,11 +72,6 @@ The /get_vocabulary endpoint allows users to download more detail on a specific 
     <td>3-character ISO 639-3 code</td>
   </tr>
   <tr>
-    <td>pronunciation</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>plural_of</td>
     <td></td>
     <td></td>
@@ -188,12 +183,12 @@ The /get_vocabulary endpoint allows users to download more detail on a specific 
   </tr>
   <tr>
     <td>created_on</td>
-    <td></td>
-    <td></td>
+    <td>2018-01-01 12:00:00</td>
+    <td>GMT</td>
   </tr>
   <tr>
     <td>updated_on</td>
-    <td></td>
-    <td></td>
+    <td>2018-01-01 12:00:00</td>
+    <td>GMT</td>
   </tr>
 </table>

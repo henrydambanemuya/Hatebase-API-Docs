@@ -37,7 +37,7 @@ The /get_sightings endpoint allows users to download sightings of Hatebase's voc
     <td></td>
   </tr>
   <tr>
-    <td>country_id</td>
+    <td>country</td>
     <td>CA</td>
     <td>2-character ISO 3166-2 code</td>
   </tr>
@@ -84,12 +84,12 @@ The /get_sightings endpoint allows users to download sightings of Hatebase's voc
   <tr>
     <td>sighted_from</td>
     <td>2018-01-01 14:00:00</td>
-    <td>Eastern time</td>
+    <td>GMT</td>
   </tr>
   <tr>
     <td>sighted_to</td>
     <td>2018-02-01 14:00:00</td>
-    <td>Eastern time</td>
+    <td>GMT</td>
   </tr>
 </table>
 
@@ -104,6 +104,11 @@ The /get_sightings endpoint allows users to download sightings of Hatebase's voc
   <tr>
     <td>sighting_id</td>
     <td>aBc123</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>vocabulary_id</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -134,6 +139,6 @@ The /get_sightings endpoint allows users to download sightings of Hatebase's voc
   <tr>
     <td>sighted_on</td>
     <td>2018-01-01 12:00:00</td>
-    <td></td>
+    <td>GMT</td>
   </tr>
 </table>

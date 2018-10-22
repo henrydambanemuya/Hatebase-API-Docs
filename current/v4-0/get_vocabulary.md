@@ -104,22 +104,22 @@ The /get_vocabulary endpoint allows users to download Hatebase's lexicon of mult
   <tr>
     <td>created_from</td>
     <td>2018-01-01 14:00:00</td>
-    <td>Eastern time</td>
+    <td>GMT</td>
   </tr>
   <tr>
     <td>created_to</td>
     <td>2018-02-01 14:00:00</td>
-    <td>Eastern time</td>
+    <td>GMT</td>
   </tr>
   <tr>
     <td>updated_from</td>
     <td>2018-01-01 14:00:00</td>
-    <td>Eastern time</td>
+    <td>GMT</td>
   </tr>
   <tr>
     <td>updated_to</td>
     <td>2018-02-01 14:00:00</td>
-    <td>Eastern time</td>
+    <td>GMT</td>
   </tr>
 </table>
 
@@ -153,11 +153,6 @@ The /get_vocabulary endpoint allows users to download Hatebase's lexicon of mult
   </tr>
   <tr>
     <td>average_offensiveness</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>pronunciation</td>
     <td></td>
     <td></td>
   </tr>
@@ -233,12 +228,12 @@ The /get_vocabulary endpoint allows users to download Hatebase's lexicon of mult
   </tr>
   <tr>
     <td>created_on</td>
-    <td></td>
-    <td></td>
+    <td>2018-01-01 12:00:00</td>
+    <td>GMT</td>
   </tr>
   <tr>
     <td>updated_on</td>
-    <td></td>
-    <td></td>
+    <td>2018-01-01 12:00:00</td>
+    <td>GMT</td>
   </tr>
 </table>
