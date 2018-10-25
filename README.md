@@ -104,6 +104,10 @@ Access to the API is limited by your plan's maximum daily query limit. It is str
   <td>Invalid token</td>
   </tr>
   <tr>
+  <td>8344</td>
+  <td>Invalid ID</td>
+  </tr>
+  <tr>
   <td>3765</td>
   <td>You must assign a plan to your account to access the API</td>
   </tr>
