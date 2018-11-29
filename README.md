@@ -4,7 +4,7 @@ Please review this README for a general understanding of the API before proceedi
 
 # Versions
 
-- [v4.0](current/v4-0/overview.md) **Imminent**
+- [v4.0](current/v4-0/overview.md) **Current**
 - [v3.0](archived/v3-0/overview.md) Deprecated
 - [v2.0](archived/v2-0/overview.md) Deprecated
 - v1.0 Retired
