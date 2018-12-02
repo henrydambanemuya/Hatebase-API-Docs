@@ -29,7 +29,7 @@ The /get_sightings endpoint allows users to download sightings of Hatebase's voc
   <tr>
     <td>page</td>
     <td>1</td>
-    <td>Defaults to 1 if not specified</td>
+    <td>Defaults to 1 if not specified. Trial plans are limited to page 1 only.</td>
   </tr>
   <tr>
     <td>vocabulary_id</td>

@@ -29,7 +29,7 @@ The /get_vocabulary endpoint allows users to download Hatebase's lexicon of mult
   <tr>
     <td>page</td>
     <td>1</td>
-    <td>Defaults to 1 if not specified</td>
+    <td>Defaults to 1 if not specified. Trial plans are limited to page 1 only.</td>
   </tr>
   <tr>
     <td>keywords</td>
