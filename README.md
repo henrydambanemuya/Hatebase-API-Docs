@@ -1,6 +1,6 @@
 <center><a href='https://hatebase.org'><img src="logo.png" width="300" ></a></center><br />
 
-Please review this README for a general understanding of the API before proceeding into the version-specific documentation. Although this README is intended to be a high-level overview of the API's usage and terms, any specific comments on implementation will always reference the latest version.
+Please review this README for a general understanding of the API before proceeding into the version-specific documentation. If you need a basic step-by-step introduction to connecting, authenticating and basic data retrieval, check out [our blog post](https://thesentinelproject.org/2018/12/11/getting-started-with-the-hatebase-api-v4-0/).
 
 # Versions
 
