@@ -4,10 +4,13 @@ Please review this README for a general understanding of the API before proceedi
 
 # Versions
 
-- [v4.0](current/v4-0/overview.md) **Current**
-- [v3.0](archived/v3-0/overview.md) Deprecated
-- [v2.0](archived/v2-0/overview.md) Deprecated
+- [v4.1](current/v4-1/overview.md) **Current**
+- [v4.0](archived/v4-0/overview.md) Deprecated
+- [v3.0](archived/v3-0/overview.md) Retired
+- [v2.0](archived/v2-0/overview.md) Retired
 - v1.0 Retired
+
+Note that decimal increments are backwards-compatible, whereas integer increments are not. In other words, an integration built for v4.0 will work reliably with v4.1 (albeit without the extra features of 4.1) by simply changing the version number in the URL from 4.0 to 4.1 to avoid accessing the older deprecated version.
 
 # How It Works
 
